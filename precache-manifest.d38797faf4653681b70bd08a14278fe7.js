@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1b079414aeefd0a02a89f469f7d011a",
+    "revision": "b107a72cf37fffb68ba5573556d400ac",
     "url": "/StickyNote/index.html"
   },
   {
