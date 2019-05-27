@@ -4,5 +4,5 @@ import './index.css'
 import Board from './Board'
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Board />, document.getElementById('root'))
+ReactDOM.render(<Board count={50} />, document.getElementById('root'))
 serviceWorker.unregister()
